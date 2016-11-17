@@ -28,7 +28,7 @@
 <hr>
 <h3>Alguns projetos que participei</h3>
 <ul>
-	<li><img src="http://is4.mzstatic.com/image/thumb/Purple60/v4/f3/f8/6d/f3f86dd0-b973-6989-9ba8-d58b651cb8d1/source/350x350bb.jpg" alt="" class="avatar"><a href="https://itunes.apple.com/br/app/tecnofit/id1109478634?mt=8" target="_blank">Tecnofit</a></li>
+	<li class="border p-3 mb-3 border-blue"><a href="https://itunes.apple.com/br/app/tecnofit/id1109478634?mt=8" target="_blank">Tecnofit</a></li>
 	<li></li>
 	<li></li>
 	<li></li>
