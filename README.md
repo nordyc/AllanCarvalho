@@ -16,4 +16,22 @@
 <p>
 	PHP, Zendframework, Laravel, Drupal, Wordpress, Ruby on Rails, Javascript, Jquery, AngularJs, React, Ionic, React Native, HTML, CSS, SASS, Stylus, Responsive web, Cordova, PostgresSQL, Mysql, MongoDb, NodeJS.
 </p>
+<hr>
+<h3>Cusos e Especializações</h3>
+<ul>
+	<li>Gerenciamento de Projetos</li>
+	<li>Scrum</li>
+	<li>UX</li>
+	<li>Inglês (Intermediário)</li>
+	<li>Arquitetura de banco de dados</li>
+</ul>
+<hr>
+<h3>Alguns projetos que participei</h3>
+<ul>
+	<li><img src="http://is4.mzstatic.com/image/thumb/Purple60/v4/f3/f8/6d/f3f86dd0-b973-6989-9ba8-d58b651cb8d1/source/350x350bb.jpg" alt="" class="avatar"><a href="https://itunes.apple.com/br/app/tecnofit/id1109478634?mt=8" target="_blank">Tecnofit</a></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
 
