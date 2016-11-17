@@ -14,7 +14,7 @@
 <hr>
 <h3>Habilidades</h3>
 <p>
-	PHP, Zendframework, Laravel, Drupal, Wordpress, Ruby on Rails, Javascript, Jquery, AngularJs, React, Ionic, React Native, HTML, CSS, SASS, Stylus, Responsive web, Cordova, PostgresSQL, Mysql, MongoDb, NodeJS, desenvolvimento mobile, GitHub.
+	PHP, Zendframework, Laravel, Drupal, Wordpress, Ruby on Rails, Javascript, Jquery, AngularJs, React, Ionic, React Native, HTML, CSS, SASS, Stylus, Responsive web, Cordova, PostgresSQL, Mysql, MongoDb, NodeJS, desenvolvimento mobile, Git.
 </p>
 <hr>
 <h3>Cusos e Especializações</h3>
