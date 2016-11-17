@@ -41,5 +41,5 @@
 		<a href="http://foodson.com.br/ " target="_blank">Foodson (Desenvolvimento da Api em Ruby on Rails, Webapp em NodeJs e Angularjs e Aplicativo em Ionic</a>
 	</li>
 </ul>
-<p><a href="http://overout.flavors.me/" class="button">Aqui tem mais alguns dos meus trabalhos!</a></p>
+<p><a href="http://overout.flavors.me/" class="button" target="_blank">Aqui tem mais alguns dos meus trabalhos!</a></p>
 
