@@ -5,12 +5,10 @@
 <hr>
 <h3>Endereço</h3>
 <ul>
-	<li><strong>Endereço: </strong>Rua Cassuarina, 304, Eucaliptos</li>
-	<li><strong>Cidade: </strong>Fazenda Rio Grande, Pr.</li>
+	<li><strong>Cidade: </strong>Curitiba, Pr.</li>
 	<li><strong>Email : </strong>allan.developer@gmail.com</li>
 	<li><strong>Telefone (whats): </strong>41 99869-4190</li>
 	<li><strong>Data de nascimento: </strong>28/10/1984</li>
-	<li><strong>Estado civil: </strong>Casado</li>
 	<li><strong>Linkedin: </strong><a href="https://br.linkedin.com/in/allanderick" target="_blank">https://br.linkedin.com/in/allanderick</a></li>
 </ul>
 
