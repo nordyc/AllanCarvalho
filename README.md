@@ -26,6 +26,20 @@
 	<li>Arquitetura de banco de dados</li>
 </ul>
 <hr>
-<h3>Alguns projetos que participei</h3>
-<div class="border p-3 mb-3 border-blue"><a href="https://itunes.apple.com/br/app/tecnofit/id1109478634?mt=8" target="_blank">Tecnofit</a></div>
+<h3>Alguns projetos mais recentes que participei</h3>
+<ul>
+	<li>
+		<a href="https://itunes.apple.com/br/app/tecnofit/id1109478634?mt=8" target="_blank">Tecnofit (Desenvolvimento aplicativo em Ionic, AngularJs e Layout</a> 
+	</li>
+	<li>
+		<a href="https://itunes.apple.com/br/app/fundacao-itaipu-brasil/id1066958446?mt=8" target="_blank">Fundação Itaipu Brasil (Desenvolvimento do aplicativo em AngularJs e Cordova)</a>
+	</li>
+	<li>
+		<a href="https://itunes.apple.com/br/app/reddly-ewo/id1087347361?mt=8" target="_blank">Reddly (Desenvolvimento aplicativo em Ionic e AngularJS</a>
+	</li>
+	<li>
+		<a href="http://foodson.com.br/ " target="_blank">Foodson (Desenvolvimento da Api em Ruby on Rails, Webapp em NodeJs e Angularjs e Aplicativo em Ionic</a>
+	</li>
+</ul>
+<p>Aqui tem mais alguns dos meus trabalhos! <a href="http://overout.flavors.me/" class="button">MEU PORTFÓLIO</a></p>
 
