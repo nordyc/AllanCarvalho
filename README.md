@@ -11,4 +11,9 @@
 	<li><strong>Data de nascimento: </strong>28/10/1984</li>
 	<li><strong>Linkedin: </strong><a href="https://br.linkedin.com/in/allanderick" target="_blank">https://br.linkedin.com/in/allanderick</a></li>
 </ul>
+<hr>
+<h3>Habilidades</h3>
+<p>
+	PHP, Zendframework, Laravel, Drupal, Wordpress, Ruby on Rails, Javascript, Jquery, AngularJs, React, Ionic, React Native, HTML, CSS, SASS, Stylus, Responsive web, Cordova, PostgresSQL, Mysql, MongoDb, NodeJS.
+</p>
 
