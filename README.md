@@ -2,7 +2,7 @@
 <br />
 <h1>Allan Carvalho</h1>
 <h4>Desenvolvedor Web</h4>
-
+<hr>
 <h3>Endereço</h3>
 <ul>
 	<li><strong>Endereço: </strong>Rua Cassuarina, 304, Eucaliptos</li>
