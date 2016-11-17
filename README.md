@@ -41,5 +41,11 @@
 		<a href="http://foodson.com.br/ " target="_blank">Foodson (Desenvolvimento da Api em Ruby on Rails, Webapp em NodeJs e Angularjs e Aplicativo em Ionic</a>
 	</li>
 </ul>
-<p><a href="http://overout.flavors.me/" class="button" target="_blank">Aqui tem mais alguns dos meus trabalhos!</a></p>
+<p><a style="font-size: 16px" href="http://overout.flavors.me/" class="button" target="_blank">Aqui tem mais alguns dos meus trabalhos!</a></p>
+<hr>
+<h3>Sobre mim</h3>
+<p>
+	Olá, me chamo Allan Carvalho, sou desenvolvedor web a mais o menos uns 15 anos, sou autodidata, sempre gostei de resolver problemas e encontrar soluções inteligentes para resolvê los, só digo que algo não dá pra fazer se tenho certeza disso, gosto de ler muito sobre web e tecnologias novas para estar agregando em meus trabalhos, trabalho bem em equipe e a distância, um de meus últimos trabalhos foi Homeoffice. <br />
+	Então se estiver precisando de alguém para um freela ou pra entrar na sua equipe que tenha a ver com meu perfil é só entrar em contato!
+</p>
 
