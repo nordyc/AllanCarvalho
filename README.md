@@ -27,11 +27,5 @@
 </ul>
 <hr>
 <h3>Alguns projetos que participei</h3>
-<ul>
-	<li class="border p-3 mb-3 border-blue"><a href="https://itunes.apple.com/br/app/tecnofit/id1109478634?mt=8" target="_blank">Tecnofit</a></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-</ul>
+<div class="border p-3 mb-3 border-blue"><a href="https://itunes.apple.com/br/app/tecnofit/id1109478634?mt=8" target="_blank">Tecnofit</a></div>
 
