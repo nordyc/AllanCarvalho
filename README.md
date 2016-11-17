@@ -48,4 +48,12 @@
 	Olá, me chamo Allan Carvalho, sou desenvolvedor web a mais o menos uns 15 anos, sou autodidata, sempre gostei de resolver problemas e encontrar soluções inteligentes para resolvê los, só digo que algo não dá pra fazer se tenho certeza disso, gosto de ler muito sobre web e tecnologias novas para estar agregando em meus trabalhos, trabalho bem em equipe e a distância, um de meus últimos trabalhos foi Homeoffice. <br />
 	Então se estiver precisando de alguém para um freela ou pra entrar na sua equipe que tenha a ver com meu perfil é só entrar em contato!
 </p>
+<hr>
+<h3>Minhas Redes</h3>
+<ul>
+	<li><a href="https://www.facebook.com/derick.willian.319" target="_blank">Facebook</a></li>
+	<li><a href="https://twitter.com/AllanWcarvalho" target="_blank">Twitter</a></li>
+	<li><a href="https://br.linkedin.com/in/allanderick" target="_blank">Linkedin</a></li>
+</ul>
+
 
